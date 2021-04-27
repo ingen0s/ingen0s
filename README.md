@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Igor Komolov](https://microsawft.com/wp-content/uploads/2014/05/microsawft_igor_komolov_logo_34.gif)
 
 <!--
 **ingen0s/ingen0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
