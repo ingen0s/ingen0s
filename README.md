@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Igor Komolov - Microsawft Research](https://microsawft.com/wp-content/uploads/2014/05/microsawft_igor_komolov_logo_34.gif)(https://www.microsawft.com)]
-[![Your Fuse Inc](https://www.yourfuse.com/wp-content/uploads/2016/09/yourfuse512.png =120x120)(https://www.yourfuse.com)]
+![Igor Komolov - Microsawft Research](https://microsawft.com/wp-content/uploads/2014/05/microsawft_igor_komolov_logo_34.gif)
+![Your Fuse Inc](https://www.yourfuse.com/wp-content/uploads/2016/09/yourfuse512.png | width=120 height=120)
 
 
 
