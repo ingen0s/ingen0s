@@ -1,11 +1,11 @@
 ### Microsawft Research 👋
 * Augmenting reality since 1984
 * https://www.microsawft.com  
-![Igor Komolov - Microsawft Research](https://microsawft.com/wp-content/uploads/2014/05/microsawft_igor_komolov_logo_34.gif)
+![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 
 ### Your Fuse
 - https://www.yourfuse.com
-<img src="https://www.yourfuse.com/wp-content/uploads/2016/09/yourfuse512.png" width="120">
+<img src="https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Flogo.png?alt=media&token=c7a5e331-2557-46a8-ad62-a191be5abf39" width="120">
 
 
 
