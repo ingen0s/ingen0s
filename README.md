@@ -1,6 +1,6 @@
 ### Microsawft Research 👋
 * Augmenting reality since 1984
-* https://www.microsawft.com  
+* https://www.igorkomolov.com  
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 
 ### Your Fuse
