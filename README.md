@@ -3,7 +3,10 @@
 * Augmenting reality since 1984
 * Classically trained animator living inside the terminal.
 * Dark roast black coffee.
-* *Nix since 1995
+* Fixed gear bike.
+* *Nix and Script kiddie since 1995
+* Bash guru.
+* SQL & NoSQL ninja.
 * https://www.igorkomolov.com
 * On X as @microsawft
 
