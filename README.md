@@ -6,7 +6,7 @@
 * Fixed gear bike, telephony skills
 * *Nix and Script kiddie since 1995
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
-* Bash guru
+* Bash guru with a Sony A7III
 * SQL & NoSQL ninja
 * Bineural & Hemisync 2600 hz
 * https://www.igorkomolov.com
@@ -18,6 +18,13 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - C Suite
 - Rust
 - Python
+
+## Main Disciplines
+- Coding
+- Kung Fu
+- Photography
+- Golf
+- Cycling
   
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplYndrNWZuc2hxajN2dTRyZ3BndGUwZTFqZ2lhbzRlb3U2dTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
