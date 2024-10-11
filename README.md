@@ -3,12 +3,13 @@
 * Augmenting reality since 1984
 * Chuck Jones inspired classically trained animator living inside the computer terminal
 * Miles Davis album with a dark roast black coffee
-* Fixed gear ratio: 3.29  
+* Fixed gear ratio: 3.29
+* Sony A7III
 * PhD in telephony
 * *Nix and Script kiddie since 1995, Debian preferred
 * Systems Architecture & Embedded systems junkie
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
-* Bash guru with a Sony A7III
+* Bash guru
 * SQL & NoSQL ninja
 * Bineural & Hemisync 2600 hz
 * Bare metal MCU hobbyist
