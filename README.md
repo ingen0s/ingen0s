@@ -1,12 +1,13 @@
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 # Igor Komolov
 * Augmenting reality since 1984
-* Classically trained animator living inside the terminal.
-* Dark roast black coffee.
-* Fixed gear bike.
+* Classically trained animator living inside the terminal
+* Dark roast black coffee
+* Fixed gear bike
 * *Nix and Script kiddie since 1995
-* Bash guru.
-* SQL & NoSQL ninja.
+* Favorite distro is #!
+* Bash guru
+* SQL & NoSQL ninja
 * https://www.igorkomolov.com
 * On X as @microsawft
 
