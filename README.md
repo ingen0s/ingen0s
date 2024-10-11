@@ -4,7 +4,7 @@
 * Classically trained animator living inside the terminal
 * Dark roast black coffee
 * Fixed gear bike
-* Phd in telephony
+* PhD in telephony
 * *Nix and Script kiddie since 1995
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
 * Bash guru with a Sony A7III
