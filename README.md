@@ -41,8 +41,30 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 * [Optimize Memory and Performance with the CVM Algorithm in JavaScript: A Comprehensive Guide for Text Analysis, Big Data, and More](https://medium.com/@yourfuse/optimize-memory-and-performance-with-the-cvm-algorithm-in-javascript-a-comprehensive-guide-for-6bb33d1a5b63)
 * [Unconventional Problem-Solving: Inversion, Deconstruction, and Starting from the End](https://medium.com/@yourfuse/unconventional-problem-solving-inversion-deconstruction-and-starting-from-the-end-e648ae9da9ee)
 
-## Your Fuse
-- https://www.yourfuse.com
+## Your Fuse Enterprise
+
+### Backend
+- [Enterprise CRM / ERP Software Suite](https://your-fuse-dev.web.app/)
+- Tenant Provisioning
+- Feature Provisioning
+- Object Builder
+- Page Builder
+- Post Builder
+- Form Builder
+- Paymanets & Subscriptions
+
+### Internal Business User
+- Contact Management
+- Sales Automation
+- Marketing Automation
+- Order Management
+- Invoicing
+
+### Marketing Frontend
+- SEO Powerhouse
+- SSR Frontend with 100% Lighthouse scores
+
+
 <img src="https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Flogo.png?alt=media&token=c7a5e331-2557-46a8-ad62-a191be5abf39" width="120">
 
 ## DeltaNet (δ.net) URL Shortener
