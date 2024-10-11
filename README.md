@@ -5,7 +5,7 @@
 * Dark roast black coffee
 * Fixed gear bike
 * *Nix and Script kiddie since 1995
-* Favorite distro is [#!](https://crunchbang.org/)
+* Favorite distro is [#! Crunchbang](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
 * Bineural & Hemisync
