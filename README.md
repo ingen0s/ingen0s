@@ -10,7 +10,6 @@
 * SQL & NoSQL ninja
 * Bineural & Hemisync 2600 hz
 * https://www.igorkomolov.com
-* On X as @microsawft
 
 ## Favorite Programming Languages
 I appreciate the poetry in coding, especially in this set of languages (no particular order):
