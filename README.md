@@ -3,12 +3,13 @@
 * Augmenting reality since 1984
 * Classically trained animator living inside the terminal
 * Dark roast black coffee
-* Fixed gear bike
+* Fixed gear bike, telephony skills
 * *Nix and Script kiddie since 1995
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
 * Bineural & Hemisync
+* Emmanuel Goldstein & 2600 fan
 * https://www.igorkomolov.com
 * On X as @microsawft
 
