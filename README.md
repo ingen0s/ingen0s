@@ -45,6 +45,18 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - https://www.yourfuse.com
 <img src="https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Flogo.png?alt=media&token=c7a5e331-2557-46a8-ad62-a191be5abf39" width="120">
 
+## DeltaNet (δ.net) URL Shortener
+Built in React on top of Cloudflare workers
+- [δ.net](https://xn--pxa.net/)
+- Basic URL Shortening
+- Customized Short URLs
+- Intelligent Redirects
+- QR Code Generation
+- Click count
+- Team Collaboration
+- Real-Time Monitoring
+- AI-Powered Insights
+- Analytics Dashboard
 
 
 <!--
