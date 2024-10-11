@@ -51,7 +51,7 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - Page Builder
 - Post Builder
 - Form Builder
-- Paymanets & Subscriptions
+- Payments & Subscriptions
 
 ### Internal Business User
 - Contact Management
