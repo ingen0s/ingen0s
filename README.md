@@ -8,6 +8,7 @@
 * Favorite distro is [#!](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
+* Bineural & Hemisync
 * https://www.igorkomolov.com
 * On X as @microsawft
 
