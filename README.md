@@ -19,7 +19,7 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - Rust
 - Python
 
-## Main Disciplines
+## Activities
 - Coding
 - Kung Fu
 - Photography
