@@ -5,7 +5,7 @@
 * Dark roast black coffee
 * Fixed gear bike
 * *Nix and Script kiddie since 1995
-* Favorite distro is #!
+* Favorite distro is [#!](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
 * https://www.igorkomolov.com
