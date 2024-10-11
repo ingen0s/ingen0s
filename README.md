@@ -19,10 +19,11 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - Rust
 - Python
 
-## Activities
+## Daily Activities
 - Coding
+- Infinite Reading
 - Kung Fu
-- Photography
+- Photography / Cinematography
 - Golf
 - Cycling
 - Animation
