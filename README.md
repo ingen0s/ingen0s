@@ -5,7 +5,7 @@
 * Miles Davis album with a dark roast black coffee
 * Fixed gear bike
 * PhD in telephony
-* *Nix and Script kiddie since 1995
+* *Nix and Script kiddie since 1995, Debian preferred
 * Systems Architecture & Embedded systems junkie
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
 * Bash guru with a Sony A7III
