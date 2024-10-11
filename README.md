@@ -8,7 +8,7 @@
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
-* Bineural & Hemisync 2600
+* Bineural & Hemisync 2600hz
 * https://www.igorkomolov.com
 * On X as @microsawft
 
