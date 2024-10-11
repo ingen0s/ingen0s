@@ -31,6 +31,7 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 - Golf
 - Cycling
 - Animation
+- Macro & Micro Market Analysis
   
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplYndrNWZuc2hxajN2dTRyZ3BndGUwZTFqZ2lhbzRlb3U2dTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
