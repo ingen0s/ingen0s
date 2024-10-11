@@ -3,7 +3,7 @@
 * Augmenting reality since 1984
 * Chuck Jones inspired classically trained animator living inside the computer terminal
 * Miles Davis album with a dark roast black coffee
-* Fixed gear bike
+* Fixed gear ratio: 3.29  
 * PhD in telephony
 * *Nix and Script kiddie since 1995, Debian preferred
 * Systems Architecture & Embedded systems junkie
