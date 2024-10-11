@@ -8,8 +8,7 @@
 * Favorite distro is [#! CrunchBang](https://crunchbang.org/)
 * Bash guru
 * SQL & NoSQL ninja
-* Bineural & Hemisync
-* Emmanuel Goldstein & 2600 fan
+* Bineural & Hemisync 2600
 * https://www.igorkomolov.com
 * On X as @microsawft
 
