@@ -28,6 +28,7 @@ I appreciate the poetry in coding, especially in this set of languages (no parti
 * [Exploring Quantum Computing with JavaScript: A Beginner’s Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [What Are Monads in JavaScript and How Can They Improve Your Functional Programming?](https://medium.com/@yourfuse/what-are-monads-in-javascript-and-how-can-they-improve-your-functional-programming-e42e56e7af9d)
 * [Optimize Memory and Performance with the CVM Algorithm in JavaScript: A Comprehensive Guide for Text Analysis, Big Data, and More](https://medium.com/@yourfuse/optimize-memory-and-performance-with-the-cvm-algorithm-in-javascript-a-comprehensive-guide-for-6bb33d1a5b63)
+* [Unconventional Problem-Solving: Inversion, Deconstruction, and Starting from the End](https://medium.com/@yourfuse/unconventional-problem-solving-inversion-deconstruction-and-starting-from-the-end-e648ae9da9ee)
 
 ## Your Fuse
 - https://www.yourfuse.com
