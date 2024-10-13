@@ -16,21 +16,12 @@
 * Student of Technical Analysis
 * https://www.igorkomolov.com
 
-## Favorite Programming Languages
-I appreciate the poetry in coding, especially in this set of languages (no particular order):
-- JavaScript
-- PHP
-- C Suite
-- Rust
-- Python
-
-## Focused Frameworks
-- React
-- React Native
-- Three.js
-- Unreal Engine
+# Core Expertise
+- **JavaScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
+- **React:** Advanced knowledge in building scalable, high-performance React applications, with extensive experience in state management, hooks, and component lifecycle.
+- **Google Cloud / Firebase:** Expert in leveraging GCP and Firebase for backend services, including authentication, real-time databases, serverless functions, and container orchestration with Kubernetes.
   
-## Programming Articles
+## Articles & Tutorials
 
 * [JavaScript — What’s new with ECMAScript® 2024 (ES15) — In Depth Guide](https://medium.com/@yourfuse/javascript-whats-new-with-ecmascript-2024-es15-ef056d2f4bf1)
 * [Unveiling Rust: A JavaScript Developer’s Guide to Mastering a New Realm](https://medium.com/@yourfuse/unveiling-rust-a-javascript-developers-guide-to-mastering-a-new-realm-375b4925306c)
