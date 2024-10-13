@@ -17,6 +17,7 @@ Igor Komolov - Microsawft Research
 - **JavaScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
 - **React:** Advanced knowledge in building scalable, high-performance React applications, with extensive experience in state management, hooks, and component lifecycle.
 - **Google Cloud / Firebase:** Expert in leveraging GCP and Firebase for backend services, including authentication, real-time databases, serverless functions, and container orchestration with Kubernetes.
+- ***Three.js:*** Building apps for Meta Quest and other spatial computing platfroms leveraging PWA worlds.
 
 ## Professional Experience
 - **CTO at RightDrive Inc** 
