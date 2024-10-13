@@ -16,6 +16,9 @@
 * Student of Technical Analysis
 * https://www.igorkomolov.com
 
+![JavaScript Contributions](https://img.shields.io/badge/JavaScript-Contributions-brightgreen.svg)
+![React Contributions](https://img.shields.io/badge/React-Contributions-blue.svg)
+
 ## Core Expertise
 - **JavaScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
 - **React:** Advanced knowledge in building scalable, high-performance React applications, with extensive experience in state management, hooks, and component lifecycle.
