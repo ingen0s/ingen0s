@@ -3,6 +3,7 @@
 Igor Komolov - Microsawft Research
 * **Web Pioneer since 1984**
 * **Animator turned Developer**, inspired by Chuck Jones, now dwelling in code
+  * Actively designing and figure drawing 
 * **Music & Tech Aficionado**: Enjoys Miles Davis with a dark roast black coffee
 * **Fixed Gear Enthusiast**: Riding at a ratio of 3.29
 * **Photography**: Sony A7III, GoPro, Meta Glasses
