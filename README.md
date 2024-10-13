@@ -1,28 +1,30 @@
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 # Igor Komolov
-* Augmenting reality since 1984
-* Chuck Jones inspired classically trained animator living inside the computer terminal
-* Miles Davis album with a dark roast black coffee
-* Fixed gear ratio: 3.29
-* Sony A7III
-* PhD in telephony
-* *Nix and Script kiddie since 1995, Debian preferred
-* Systems Architecture & Embedded systems junkie
-* Favorite distro is [#! CrunchBang](https://crunchbang.org/)
-* Bash guru
-* SQL & NoSQL ninja
-* Bineural & Hemisync 2600 hz
-* Bare metal MCU hobbyist
-* Student of Technical Analysis
+Igor Komolov - Microsawft Research
+* **Web Pioneer since 1984**
+* **Animator turned Developer**, inspired by Chuck Jones, now dwelling in code
+* **Music & Tech Aficionado**: Enjoys Miles Davis with a dark roast black coffee
+* **Fixed Gear Enthusiast**: Riding at a ratio of 3.29
+* **Photography**: Sony A7III, GoPro, Meta Glasses
+* **Theoretical Telephony Expert** (PhD)
+* **Linux Connoisseur**: Debian user since '95, with a love for CrunchBang
+* **Bash & Data Wizard**: Proficient in both SQL & NoSQL
+* **Bare Metal & Microcontrollers**: Crafting solutions from the ground up
+* **Technical Analyst**: Applying methodical analysis to code and markets
 * https://www.igorkomolov.com
-
-![JavaScript Contributions](https://img.shields.io/badge/JavaScript-Contributions-brightgreen.svg)
-![React Contributions](https://img.shields.io/badge/React-Contributions-blue.svg)
 
 ## Core Expertise
 - **JavaScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
 - **React:** Advanced knowledge in building scalable, high-performance React applications, with extensive experience in state management, hooks, and component lifecycle.
 - **Google Cloud / Firebase:** Expert in leveraging GCP and Firebase for backend services, including authentication, real-time databases, serverless functions, and container orchestration with Kubernetes.
+
+## Professional Experience
+- **CTO at RightDrive Inc** 
+  - Spearheaded the modernization of legacy software, enhancing performance and scalability.
+- **Senior Frontend Developer at Your Fuse Inc.** 
+  - Architected an enterprise ERP leveraging React and Firebase, focusing on real-time capabilities.
+- **Frontend Developer at Agile Humanities** 
+  - Developed dynamic, responsive applications with a keen eye on user experience and backend integration.
   
 ## Articles & Tutorials
 
