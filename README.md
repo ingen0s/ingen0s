@@ -1,9 +1,8 @@
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 # Igor Komolov
-Igor Komolov - Microsawft Research
+Igor Komolov - Creative Programmer
 * **Web Pioneer since 1984**
 * **Animator turned Developer**, inspired by Chuck Jones, now dwelling in code
-  * Actively designing and figure drawing 
 * **Music & Tech Aficionado**: Enjoys Miles Davis with a dark roast black coffee
 * **Fixed Gear Enthusiast**: Riding at a ratio of 3.29
 * **Photography**: Sony A7III, GoPro, Meta Glasses
