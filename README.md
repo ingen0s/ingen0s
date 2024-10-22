@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/profile_banners/380687680/1729612159/600x200" width="700" />
+
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 # Igor Komolov
 Igor Komolov - Creative Programmer
