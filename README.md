@@ -29,6 +29,8 @@ Igor Komolov - Creative Programmer
   - Architected an enterprise ERP leveraging React and Firebase, focusing on real-time capabilities.
 - **Frontend Developer at Agile Humanities** 
   - Developed dynamic, responsive applications with a keen eye on user experience and backend integration.
+- **Digital Architect at Forex Lens** 
+  - Automated and systemized operations to increase conversions since 2016.
   
 ## Articles & Tutorials
 
