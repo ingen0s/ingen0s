@@ -16,7 +16,7 @@ Igor Komolov - Creative Programmer
 * https://www.igorkomolov.com
 
 ## Core Expertise
-- **JavaScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
+- **JavaScript / TypeScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
 - **React:** Advanced knowledge in building scalable, high-performance React applications, with extensive experience in state management, hooks, and component lifecycle.
 - **Google Cloud / Firebase:** Expert in leveraging GCP and Firebase for backend services, including authentication, real-time databases, serverless functions, and container orchestration with Kubernetes.
 - **Atlassian:** Project management and scaling techniques via JIRA Product Manager, JIRA and Forge.
