@@ -42,6 +42,19 @@ Igor Komolov - Creative Programmer
 * [Unconventional Problem-Solving: Inversion, Deconstruction, and Starting from the End](https://medium.com/@yourfuse/unconventional-problem-solving-inversion-deconstruction-and-starting-from-the-end-e648ae9da9ee)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplYndrNWZuc2hxajN2dTRyZ3BndGUwZTFqZ2lhbzRlb3U2dTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
+## DeltaNet (δ.net) URL Shortener
+Built in React on top of Cloudflare workers
+- [δ.net](https://xn--pxa.net/)
+- Basic URL Shortening
+- Customized Short URLs
+- Intelligent Redirects
+- QR Code Generation
+- Click count
+- Team Collaboration
+- Real-Time Monitoring
+- AI-Powered Insights
+- Analytics Dashboard
+
 <!--
 ## Your Fuse Enterprise
 
