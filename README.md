@@ -27,7 +27,7 @@ Igor Komolov - Creative Programmer
   - Spearheaded the modernization of legacy software, enhancing performance and scalability.
 - **Senior Frontend Developer at Your Fuse Inc.** 
   - Architected an enterprise ERP leveraging React and Firebase, focusing on real-time capabilities.
-- **Frontend Developer at Agile Humanities** 
+- **Frontend Developer at [Agile Humanities](https://agilehumanities.ca/)** 
   - Developed dynamic, responsive applications with a keen eye on user experience and backend integration.
 - **Digital Architect at Forex Lens** 
   - Automated and systemized operations to increase conversions since 2016.
