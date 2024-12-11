@@ -3,7 +3,7 @@
 ![Igor Komolov - Microsawft Research](https://firebasestorage.googleapis.com/v0/b/your-fuse.appspot.com/o/public%2Fmicrosawft_igor_komolov_logo_3.gif?alt=media&token=6f20d3d9-3d0c-49d9-912c-71dcd3e35ac3)
 # Igor Komolov
 Igor Komolov - Creative Programmer
-* **Web Pioneer since 1984**
+* **Web Pioneer since 1984** (Friends with Emmanuel Goldstein)
 * $tetsuo -> Contract Address: 8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8 -> [testsuo.ai](https://tetsuo.ai)
 * **Animator turned Developer**, inspired by Chuck Jones, now dwelling in code
 * **Music & Tech Aficionado**: Enjoys Miles Davis with a dark roast black coffee
