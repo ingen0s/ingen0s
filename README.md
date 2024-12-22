@@ -15,6 +15,7 @@ Igor Komolov - Creative Programmer
 * **Bare Metal & Microcontrollers**: Crafting solutions from the ground up
 * **Technical Analyst**: Applying methodical analysis to code and markets
 * https://www.igorkomolov.com
+* https://www.microsawft.com
 
 ## Core Expertise
 - **JavaScript / TypeScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
