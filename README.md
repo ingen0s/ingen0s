@@ -4,7 +4,6 @@
 # Igor Komolov
 Igor Komolov - Creative Programmer
 * **Web Pioneer since 1984** (Friends with Emmanuel Goldstein)
-* $tetsuo -> Contract Address: 8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8 -> [testsuo.ai](https://tetsuo.ai)
 * **Animator turned Developer**, inspired by Chuck Jones, now dwelling in code
 * **Music & Tech Aficionado**: Enjoys Miles Davis with a dark roast black coffee
 * **Fixed Gear Enthusiast**: Riding at a ratio of 3.29
