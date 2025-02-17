@@ -15,6 +15,7 @@ Igor Komolov - Creative Programmer
 * **Technical Analyst**: Applying methodical analysis to code and markets
 * https://www.igorkomolov.com
 * https://www.microsawft.com
+* https://solana.forexlens.com
 
 ## Core Expertise
 - **JavaScript / TypeScript:** Expert proficiency with over 10 years of experience, specializing in modern ES6+ features, asynchronous programming, and performance optimization.
@@ -22,6 +23,7 @@ Igor Komolov - Creative Programmer
 - **Google Cloud / Firebase:** Expert in leveraging GCP and Firebase for backend services, including authentication, real-time databases, serverless functions, and container orchestration with Kubernetes.
 - **Atlassian:** Project management and scaling techniques via JIRA Product Manager, JIRA and Forge.
 - ***Three.js:*** Building apps for Meta Quest and other spatial computing platfroms leveraging PWA worlds.
+- ***Blockchain*** Smart contract enthusiast.
 
 ## Professional Experience
 - **CTO at RightDrive Inc** 
