@@ -50,8 +50,9 @@ Igor Komolov - Creative Programmer
 - [δ.net](https://δ.net)
 - The Next Evolution of Digital Connectivity
 
-## URI TBD URL Shortener
+## in0 URL Shortener (in0.ca)
 Built in React on top of Cloudflare workers
+- [in0.ca](https://in0.ca/)
 - Basic URL Shortening
 - Customized Short URLs
 - Intelligent Redirects
