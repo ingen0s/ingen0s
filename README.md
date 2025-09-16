@@ -43,6 +43,7 @@ Igor Komolov - Creative Programmer
 * [What Are Monads in JavaScript and How Can They Improve Your Functional Programming?](https://medium.com/@yourfuse/what-are-monads-in-javascript-and-how-can-they-improve-your-functional-programming-e42e56e7af9d)
 * [Optimize Memory and Performance with the CVM Algorithm in JavaScript: A Comprehensive Guide for Text Analysis, Big Data, and More](https://medium.com/@yourfuse/optimize-memory-and-performance-with-the-cvm-algorithm-in-javascript-a-comprehensive-guide-for-6bb33d1a5b63)
 * [Unconventional Problem-Solving: Inversion, Deconstruction, and Starting from the End](https://medium.com/@yourfuse/unconventional-problem-solving-inversion-deconstruction-and-starting-from-the-end-e648ae9da9ee)
+* [Tsotchkes’ Quantum Random Number Generation in Rust - Beyond Traditional Pseudorandomness](https://medium.com/@yourfuse/tsotchkes-quantum-random-number-generation-in-rust-beyond-traditional-pseudorandomness-058fb4dd39ce)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplYndrNWZuc2hxajN2dTRyZ3BndGUwZTFqZ2lhbzRlb3U2dTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ## DeltaNet (δ.net) 
