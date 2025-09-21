@@ -12,6 +12,7 @@ Igor Komolov - Creative Programmer
 * **Linux Connoisseur**: Debian user since '95, with a love for CrunchBang
 * **Bash & Data Wizard**: Proficient in both SQL & NoSQL
 * **Bare Metal & Microcontrollers**: Crafting solutions from the ground up
+* **Quantum Computing**: [Building a Quantum Computer](https://github.com/ingen0s/quantumfuse/blob/main/Q-Resinator.md)
 * **Technical Analyst**: Applying methodical analysis to code and markets
 * https://www.igorkomolov.com
 * https://www.microsawft.com
